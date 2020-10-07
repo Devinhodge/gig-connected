@@ -1,0 +1,22 @@
+{
+  "name": "gig-connected",
+  "version": "1.0.0",
+  "description": "create database for my capstone (311 checkpoint 2)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devinhodge/gig-connected.git"
+  },
+  "author": "Devin Hodge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devinhodge/gig-connected/issues"
+  },
+  "homepage": "https://github.com/Devinhodge/gig-connected#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
